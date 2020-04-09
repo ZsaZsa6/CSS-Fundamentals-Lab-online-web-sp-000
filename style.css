@@ -33,3 +33,7 @@ section#details {
 section#details > div {
   float: left;
 }
+div {
+  text-align: center;
+  
+}
