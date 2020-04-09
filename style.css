@@ -17,9 +17,10 @@ nav < a {
   background-color: grey;
   padding-left: 10px;
   padding-right: 10px;
+  background: rgba(76, 175, 80, 0.3) 
 
 }
 figcaption {
   text-align: center;
-  
+
 }
