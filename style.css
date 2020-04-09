@@ -27,7 +27,10 @@ section#featured-property p {
   /*width: 800px;*/
 }
 div {
-  align: center;
+  align-items: center;
+}
+div {
+  /*align: center;*/
   width: 25%;
   text-align: center;
   background-color: grey
