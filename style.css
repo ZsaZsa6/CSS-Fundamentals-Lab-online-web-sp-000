@@ -28,5 +28,7 @@ section#featured-property p {
 }
 div {
   width: 25%;
+  text-align: center;
+  background-color: grey
 
 }
