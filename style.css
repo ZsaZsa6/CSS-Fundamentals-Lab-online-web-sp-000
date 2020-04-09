@@ -11,5 +11,7 @@ img {
   width: 40%;
 }
 nav > a {
-  padding-left: 
+  padding-left: 10px;
+  padding-right: 10px;
+  
 }
