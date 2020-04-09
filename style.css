@@ -11,10 +11,10 @@ img {
   width: 40%;
 }
 nav > a {
-  
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: pink;
+  padding: 70px 0;
+  border: 3px solid green;
+  text-align: center;
+  }
 
 
 }
