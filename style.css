@@ -26,13 +26,3 @@ section#featured-property p {
   text-align: center;
   /*width: 800px;*/
 }
-section#details > div {
-  align-self: center;
-}
-div {
-  /*align: center;*/
-  width: 25%;
-  text-align: center;
-  background-color: grey
-
-}
