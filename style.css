@@ -10,8 +10,6 @@ img {
   margin-right: auto;
   width: 40%;
 }
-nav > a {
-  padding: 10px 0;
-  background-color: yellow
+nav {
   text-align: center;
 }
