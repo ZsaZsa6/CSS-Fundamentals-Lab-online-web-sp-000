@@ -13,7 +13,7 @@ img {
 nav {
   text-align: center;
 }
-nav >a {
+nav > a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: yellow;
@@ -26,8 +26,8 @@ section#featured-property p {
   text-align: center;
   /*width: 800px;*/
 }
-section#details div {
-  align-content: center;
+section#details > div {
+  align-text: center;
 }
 div {
   /*align: center;*/
