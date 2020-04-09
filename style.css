@@ -26,7 +26,8 @@ section#featured-property p {
   text-align: center;
   /*width: 800px;*/
 }
-section#details {align-items: center;
+section#details {
+  align-content: center;
 }
 div {
   /*align: center;*/
